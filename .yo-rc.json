@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sondeos.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.sondeos.blog",
+    "packageFolder": "com/sondeos/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjM4NTNlNDU3MTIwNjZhMzVjOTM5OTkyYmI4ZjE1MmFhODhjYjk4OWQ2MGU1ODEzMjhhZTMxMDA1MWJkYjM3NTY1NjRmMDJjMTdjNDcxNjE4ZWU4MGMxYWU1ODVjYjU4MzU5ZjdhYjYwNDkyMTBmZGIyNTM1NTkzMjhlOWE3YjM=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "es"]
+  }
+}
